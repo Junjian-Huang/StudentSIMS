@@ -12,7 +12,6 @@ namespace StudentSIMS.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int addressId { get; set; }
-        [Required, MaxLength(100)]
         public int sid { get; set; }
         public int streetNumber { get; set; }
         public string street { get; set; }
