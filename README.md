@@ -1,5 +1,10 @@
 # StudentSIMS
 
+URLs of APIs that have been hosted on Azure:
+
+https://msa-phase11.azurewebsites.net/index.html
+
+
 
 Database:
 
